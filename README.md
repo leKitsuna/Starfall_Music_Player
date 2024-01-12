@@ -5,6 +5,6 @@ __!play__
 
 __!stop__
 
-__!change + Link from Discord__
+__!change__ + Link from Discord
 
 __!vol (from 0 to 100)__
