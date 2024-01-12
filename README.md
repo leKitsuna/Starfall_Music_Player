@@ -1,10 +1,10 @@
 ## Starfall Music chip that allows you to play music from Discord links.
 <p> List of available commands: </p>
 
-> !play
+__!play__
 
-> !stop
+__!stop__
 
-> !change + Link from Discord
+__!change + Link from Discord__
 
-> !vol (from 0 to 100)
+__!vol (from 0 to 100)__
